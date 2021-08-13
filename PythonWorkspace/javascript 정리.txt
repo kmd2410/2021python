@@ -1,0 +1,14 @@
+Extensions
+1. Material Theme = 글자 색상 변경
+2. Material Icon Theme = 아이콘 생동감있게 변경
+3. Prettier - Code formatter = 코드를 포맷팅 ?
+4. Bracket Pair Colorizer = 괄호 색상 다다름 
+5. Indent Rainbow = 들여쓰기 된 부분 레인보우 컬러로 변경
+6. Auto Rename Tag = 앞에태그를 바꾸면 뒤에태그도 자동으로 바뀜
+7. CSS Peek = css 바로 찾을수있게 도와줌
+8. HTML CSS support = html에서 css 자동완성가능
+9. live server = 저장하면 바로바로 나타내줌
+10. Markdown Preview = 리드미 파일 
+11. html to css auto = 자동완성
+
+
